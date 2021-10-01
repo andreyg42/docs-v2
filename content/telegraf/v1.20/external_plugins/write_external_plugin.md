@@ -26,5 +26,5 @@ Include the following steps:
      - Commands to build your binary
      - Location to edit your `telegraf.conf`
      - Configuration to run your external plugin with [inputs.execd](https://github.com/influxdata/telegraf/blob/master/plugins/inputs/execd),
-     [processors.execd](/plugins/processors/execd) or [outputs.execd](https://github.com/influxdata/telegraf/blob/master/plugins/outputs/execd)
+     [processors.execd](https://github.com/influxdata/telegraf/blob/master/plugins/processors/execd) or [outputs.execd](https://github.com/influxdata/telegraf/blob/master/plugins/outputs/execd)
 4. Submit your plugin by opening a PR to add your external plugin to the [/EXTERNAL_PLUGINS.md](https://github.com/influxdata/telegraf/blob/master/EXTERNAL_PLUGINS.md) list. Include the plugin name, a link to the plugin repository and a short description of the plugin.
